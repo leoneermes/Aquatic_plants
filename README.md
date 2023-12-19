@@ -29,4 +29,4 @@ To use the .stl files, you will need to have 3D design software installed on you
 To use the .gcode file, you will need a 3D printer that is compatible with the file format. You can use the software that came with your 3D printer to upload the .gcode file and start printing.
 
 Contact Information
-If you have any questions or issues with the files in this repository, please feel free to contact me, you can find my email address in the corresponding section of the following article doiXXX. I am happy to help!
+If you have any questions or issues with the files in this repository, please feel free to contact me, you can find my email address in the corresponding section of the following article (https://doi.org/10.1038/s41598-023-49680-3.)  I am happy to help!
